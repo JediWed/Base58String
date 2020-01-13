@@ -11,7 +11,7 @@ This library provides an idiomatic Swift version of the go library.
 Add the following to your Package.swift file in "dependencies".
 
 ```
-.package(url: "https://github.com/cloutiertyler/Base58String.git", from: "0.1.0")
+.package(url: "https://github.com/JediWed/Base58String.git", from: "0.1.0")
 ```
 
 ### CocoaPods
@@ -19,7 +19,7 @@ Add the following to your Package.swift file in "dependencies".
 Add the following to your Podfile:
 
 ```
-pod 'Base58String', :git => 'https://github.com/keefertaylor/Base58String.git'	
+pod 'Base58String', :git => 'https://github.com/JediWed/Base58String.git'	
 ```
 
 ## Usage
